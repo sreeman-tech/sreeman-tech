@@ -21,12 +21,12 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
-├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+├─◈ <a href="https://github.com/sreeman-tech/seeker">Seeker</a>
+├─◈ <a href="https://github.com/sreeman-tech/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/sreeman-tech/nexfil">NExfil</a>
+├─◈ <a href="https://github.com/sreeman-tech/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/sreeman-tech/killcast">KillCast</a>
+├─◈ <a href="https://github.com/sreeman-tech/flashsploit">FlashSploit</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
