@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sreeman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=735&lines=I+Was+Full+Stuck+Developer+Of+-%3E+ICD;2%2B+Experience+Of+Development+in;Web+design+%26+App+design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Was+Full+Stuck+Developer+Of+-%3E+ICD;2%2B+Experience+Of+Development+in;Web+design+%26+App+design" alt="Typing SVG" /></a>
 
 <pre>
 ┌──┤ DataBase ├─────────▰▰▰
