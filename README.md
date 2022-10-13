@@ -4,8 +4,8 @@
   <img src="frame.png" width="222" />
 </p>
 
-<p align="right">
-  <img src="https://tenor.com/bqksy.gif" width="222" />
+<p align="center">
+  <img src="https://tenor.com/bqksy.gif" width="300" />
 </p>
 
 <p align="center">
