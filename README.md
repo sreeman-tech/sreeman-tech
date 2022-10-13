@@ -4,7 +4,9 @@
   <img src="frame.png" width="222" />
 </p>
 
-<div class="tenor-gif-embed" data-postid="18629164" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/full-stack-developer-gif-18629164">Full Stack Developer GIF</a>from <a href="https://tenor.com/search/full+stack+developer-gifs">Full Stack Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="right">
+  <img src="https://tenor.com/bqksy.gif" width="222" />
+</p>
 
 <p align="center">
 <a href="">
