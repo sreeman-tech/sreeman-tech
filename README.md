@@ -1,11 +1,7 @@
 <h1 align="center">Hi , I'm Sreeman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="left">
-  <img src="frame.png" width="222" />
-</p>
-
-<p align="center">
-  <img src="https://tenor.com/bqksy.gif" width="300" />
+  <img src="frame.png" width="222" /> <p align="center"> <img src="https://tenor.com/bqksy.gif" width="300" /> </p>
 </p>
 
 <p align="center">
