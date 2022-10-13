@@ -4,12 +4,7 @@
   <img src="frame.png" width="222" />
 </p>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p>
-  <a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a>
-</p>
+<div class="tenor-gif-embed" data-postid="18629164" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/full-stack-developer-gif-18629164">Full Stack Developer GIF</a>from <a href="https://tenor.com/search/full+stack+developer-gifs">Full Stack Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
 <a href="">
