@@ -8,9 +8,6 @@
   <img src="full-stack-developer.gif" width="600" />
 </p>
 
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-
 <p align="center">
 <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Was+Full+Stuck+Developer+Of+-%3E+ICD;2%2B+Experience+Of+Development+in;Web+design+%26+App+design" alt="Typing SVG" />
