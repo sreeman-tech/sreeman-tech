@@ -4,6 +4,8 @@
   <img src="frame.png" width="222" />
 </p>
 
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw"></a></p>
+
 <p align="center">
 <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Was+Full+Stuck+Developer+Of+-%3E+ICD;2%2B+Experience+Of+Development+in;Web+design+%26+App+design" alt="Typing SVG" />
