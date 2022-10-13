@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="frame.png" width="100" />
+  <img src="frame.png" width="222" />
 </p>
 
 <p align="center">
