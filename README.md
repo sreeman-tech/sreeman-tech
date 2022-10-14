@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="full-stack-developer.gif" width="600" />
-</p>
-
-<p align="center">
 <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Was+Full+Stuck+Developer+Of+-%3E+ICD;2%2B+Experience+Of+Development+in;Web+design+%26+App+design" alt="Typing SVG" />
     </a>
